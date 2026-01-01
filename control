@@ -1,0 +1,9 @@
+Package: com.custom.spotifyeq10
+Name: SpotifyEQ10
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: 10-band equalizer for Spotify
+Maintainer: You
+Author: You
+Section: Tweaks
+Depends: mobilesubstrate
