@@ -2,7 +2,7 @@
 
 A tweak that replaces Spotify's default 6-band equalizer with a proper 10-band equalizer.
 
-![10-band EQ](screenshot.jpg)
+![10-band EQ](Screenshot.jpg)
 
 ## Features
 
